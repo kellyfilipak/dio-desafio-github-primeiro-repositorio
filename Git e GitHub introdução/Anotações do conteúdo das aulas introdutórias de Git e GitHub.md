@@ -32,6 +32,7 @@ Linux :arrow_double_down:
 - git init 
 - git add
 - git commit
+.
 
 
 
